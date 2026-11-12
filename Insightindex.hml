@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My Website</h1>
+
+    <p>My name is Emmanuel.</p>
+
+    <p>I am learning website development.</p>
+
+    <button>Contact Me</button>
+
+</body>
+</html>
